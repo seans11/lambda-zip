@@ -6,7 +6,7 @@
 #   incremental pipelines where another process might be used for package
 #   upload, or manual action is required.
 # Author: Sean Sydow
-# Version: 0.3.7
+# Version: 0.4.1
 #
 
 import os
