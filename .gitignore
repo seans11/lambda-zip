@@ -1,0 +1,15 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+.idea/
+
+*.pyc
+
+dist/
+build/
+*.egg-info/
+
+.tox/
+.coverage
+.cache/
+
+vendor/
