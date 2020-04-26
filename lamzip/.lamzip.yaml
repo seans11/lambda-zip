@@ -1,0 +1,10 @@
+
+# Lambda-Zip (lamzip)
+#
+# Defaults for packaging your AWS Lambda function
+#
+
+source-directory: ./appsrc
+destination-directory: ./dist
+package-prefix: foo
+package-version: 0.0.1
